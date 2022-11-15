@@ -1,2 +1,6 @@
 # carousel-and-search-js
-[![Demo]](./demo/search.mp4)
+# carousel 
+![View mode](./demo/carousel.png)
+
+# search 
+![View mode](./demo/search.png)
